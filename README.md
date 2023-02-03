@@ -1,6 +1,6 @@
-### Hi there my name is Agustin Barreto 
-### I am a 4th Year Software Enginering Student from University of Puerto Rico Mayaguez.
-### My interests are Machine Learning, Cybersecurity and Data Science. 
+### Hi there my name is Agustin Barreto 💻
+### I am a 4th Year Software Enginering Student from University of Puerto Rico Mayaguez.👦🏻
+### My interests are Machine Learning, Cybersecurity and Data Science. 🖥💻
 
 
 <!--
