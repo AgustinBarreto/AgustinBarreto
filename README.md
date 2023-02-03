@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there my name is Agustin Barreto 
+### I am a 4th Year Software Enginering Student from University of Puerto Rico Mayaguez.
+### My interests are Machine Learning, Cybersecurity and Data Science. 
+
 
 <!--
 **AgustinBarreto/AgustinBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
